@@ -1,0 +1,73 @@
+Title: The Link Between Extreme Weather and Climate Change Has Never Been More Clear
+Source: National Geographic (June 10, 2024) - https://www.nationalgeographic.com/science/article/scientists-accurately-pinpoint-climate-contribution-extreme-weather/
+
+
+The link between extreme weather and climate change has never been more clear
+Experts say drawing the direct connection from specific storms to the nebulous idea of climate change can help people grasp the urgency of our crisis.
+
+ByMeryl Davids Landau
+June 10, 2024
+
+
+
+
+A decade ago, scientists would say they were pretty sure a specific hurricane, heatwave, flood, drought or raging wildfire was more severe due to climate change, but they could rarely pinpoint its exact contribution. Now, thanks to a convergence of human brainpower, mathematical models, precise weather data, and superpower computers, climate fingerprints are being calculated for many major weather events.
+
+The purpose of this climate attribution is to drive home the extent that greenhouse gases from the burning of fossil fuel relates to the weather effects people are seeing. 
+
+“We want everyone to understand how what we as humans have done translates into the intensities and frequencies of extreme events,” says Joyce Kimutai, a climate scientist at the London-based nonprofit World Weather Attribution (WWA), a leader in this research. “We’re not saying that climate change caused a particular extreme weather event. What we are saying is, ‘Here’s the extent climate change has modified it’.” 
+
+More than 400 extreme weather events, many in the past few years, have been studied to determine to what extent the grade of the phenomenon was driven by climate change.  
+
+For example, researchers at Climate Central, a nonprofit organization that collaborates with WWA, found that last summer’s heat wave in the Southwestern United States—where temperatures in July were some 10 degrees Fahrenheit above normal—was five or more times more likely because of climate change.
+
+Heat waves like that “are not just blips,” but will become much more frequent if the world doesn’t quickly transition away from fossil fuels and other greenhouse gases, says Andrew Pershing, the lead scientist for attribution research at Climate Central. 
+
+
+Residents with a dog sit in the back of a truck while waiting to be rescued from rising floodwaters due to Hurricane Harvey in Spring, Texas, 2017.
+Photograph by Luke Sharrett, Bloomberg/Getty Images
+Climate has worsened heat, floods, and storms 
+LIMITED TIME OFFER
+SEE GIFT OPTIONS
+Complex weather events are triggered by several environmental factors, including high- or low-pressure systems, jet streams, and more. But it’s long been known that warmer air and ocean surface temperatures are additional important contributors that have worsened many recent disasters. 
+
+Scientists have calculated, for example, that total rainfall from six of the major hurricanes that struck the Atlantic coast in the past 20 years—Katrina, Irma, Maria, Harvey, Dorian, and Florence—and which collectively caused more than $500 billion in damage, were four to 15 times more intense (depending on the hurricane) than they would have been had the Earth been cooler.
+
+You May Also Like
+SCIENCE
+Climate change made the L.A. wildfires 35 percent more likely
+ENVIRONMENT
+Here’s what made Hurricane Katrina one of the worst storms in U.S. history.
+SCIENCE
+What are hurricanes? The science behind the supercharged storms
+Last year’s unusually warm Midwestern Christmas week was at least twice more likely due to climate change, a Climate Central analysis found. While some put the blame for that snow-free Christmas on El Niño—the periodic warming on the surface of the Pacific Ocean that does affect weather—without global warming the area might have received some holiday snow.
+
+On average, heatwaves that would have happened once in 10 years in pre-industrial times now occur some three times more often, and they’re frequently 1.2 degrees Celsius hotter than in the past, WWA says. The record-smashing heatwave that buckled roads in the Pacific Northwest and Western Canada in the summer of 2021 would have been all but impossible without the contribution of climate change. 
+
+Could your own home have been saved?
+Scientists now aim to calculate and disseminate these climate fingerprints within days or a few weeks of an extreme weather event, when people are paying close attention, says Michael Wehner, a senior staff scientist who calculates attributions at the U.S. Department of Energy’s Lawrence Berkeley National Laboratory in California. 
+
+Quickly connecting the dots between the event and greenhouse gases “helps people realize that climate change isn’t our children’s and grandchildren’s problem. Significant things are happening now,” Wehner says.
+
+As soon as massive downpours began flowing in Dubai in mid-April this year—in which up to 10 inches of rain fell in less than two days—researchers at WWA dug into the data. A week after the rain, they reported that such an event became twice as likely from today’s climate.
+
+Another recent focus is to document the event’s extra impacts rather than just the increased odds.
+
+For example, researchers determined that Hurricane Harvey, which struck Houston in 2017, contained 19 percent more rainfall than would have occurred without climate change, Wehner noted in a paper in Physics Today. Then they figured out what this meant for residents: 14 percent more flooded areas and a quadrupling of the financial loss in what was ultimately a $90 billion storm. 
+
+People living in the storm’s path can even review Wehner’s flood model map to learn whether their house would have been spared absent climate change—something he estimates was the case for 32 percent of the damaged homes.
+
+Some weather events are harder to crunch
+Attribution science relies on climate models showing the impacts of greenhouse gases on the planet, which are then combined with current weather information gleaned from ground stations and weather satellites, historical information from global datasets, and other inputs.
+
+Statistical techniques culled from epidemiology are also used, since that field also teases apart the relative contributions of various factors, such as how much smoking habits, family history, and obesity each contribute to a population’s heart disease odds.
+
+Heatwaves are simpler to calculate than hurricanes, and droughts are toughest of all, Kimutai says. Drought requires knowing not just how much how much rain has or hasn’t fallen but soil moisture levels, air evaporation rates, and other data. In many parts of the world, especially underdeveloped countries, this current and historical data does not exist.
+
+Extraordinary events are also proving challenging. Climate is increasing the frequency of once-in-a-hundred-year events to 10- or 20-years. With the Pacific Northwest heatwave, for example, “we have more than 100 years of data, but there was nothing like it,” Wehner says. 
+
+Most of the studies have focused on extreme weather, but everyday life is also different than it would have been without climate change, Pershing says. That’s why two years ago, Climate Central launched its “climate shift” temperature website detailing how each U.S. area’s seven-day forecast diverges from its historical norms.
+
+Minnesota’s site visitors last winter learned that many days were much warmer than usual—which climate change made three or more times more likely. 
+
+This type of everyday event may not attract a splashy report from attribution scientists, Pershing says, “but it was certainly important to the residents who live there.” 

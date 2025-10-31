@@ -1,0 +1,305 @@
+Title: Mapped: How Climate Change Affects Extreme Weather Around the World
+Source: Carbon Brief (November 18, 2024) - https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/
+
+
+
+Mapped: How climate change affects extreme weather around the world
+18 November 2024
+
+By Robert McSweeney and Ayesha Tandon 
+
+Design and development by Kerry Cleaver,  Tom Pearson and Tom Prater 
+
+In 2004, a trio of researchers published a study that accomplished something never seen before. They calculated the specific contribution that human-caused climate change made to an individual extreme weather event.
+
+The extreme event in question was the European heatwave in the summer of 2003. Week upon week of extreme heat had a devastating impact, killing more than 70,000 people across the continent.
+
+The scientists worked out that human influence had at least doubled the risk of such an extreme heatwave occurring. The findings made headlines around the world.
+
+The study kick-started the scientific field of “extreme event attribution”.
+
+stampstamp
+Attribution studies calculate whether, and by how much, climate change affected the intensity, frequency or impact of extremes – from wildfires in the US and drought in South Africa through to record-breaking rainfall in Pakistan and typhoons in Taiwan.
+
+To keep track of this rapidly growing field of research, Carbon Brief has mapped every published study on how climate change has influenced extreme weather.
+
+Further reading:
+
+Q&A: The evolving science of ‘extreme weather attribution’
+
+This latest iteration of the interactive map (below) includes more than 600 studies, covering almost 750 extreme weather events and trends.
+
+
+Across all these cases, 74% were made more likely or severe because of climate change. This includes multiple cases where scientists found that an extreme was virtually impossible without human influence on global temperatures.
+
+Around 9% of the events and trends in the map were made less likely or severe by climate change.
+
+This means that, overall, 83% of the events and trends included in the map were found to have been influenced by human-caused climate change.
+
+In the remaining 17% of cases, the studies either found no human influence (10%) or they were inconclusive (7%), often due to insufficient data.
+
+First published in July 2017, this is the sixth – and most comprehensive – update to Carbon Brief’s map.
+
+mouse cursor indicsting interactive contentStudies of almost 750 events and trends reveal the impact of climate change on extreme weather.
+Explore the studies either via the map or by the panel of controls below.
+
+Switch view:
+
+Finding
+
+Event type
+How did climate change influence the weather event:
+
+ More severe or likely
+547
+ Had no influence
+71
+ Less severe or likely
+64
+ Inconclusive
+53
+Explore further:
+
+
+Choose a country...
+Explore all cases
+Last updated 17 November 2024
+
+Get the data (.csv)
+
+Europe
+Europe
+116
+116
+17
+17
+17
+17
+Global
+Global
+56
+56
+Northern hemisphere
+Northern hemisphere
+Sub-Saharan Africa
+Sub-Saharan Africa
+32
+32
+Central and southern Asia
+Central and southern Asia
+30
+30
+Northern America
+Northern America
+100
+100
+Eastern and south-eastern Asia
+Eastern and south-eastern Asia
+120
+120
+23
+23
+Australia and New Zealand
+Australia and New Zealand
+39
+39
+Latin America and the Caribbean
+Latin America and the Caribbean
+22
+22
+Arctic
+Arctic
+Northern Africa and western Asia
+Northern Africa and western Asia
+Antarctica
+Antarctica
+Oceania
+Oceania
+Extremes across the world
+In total, the map (above) contains 735 extremes from 612 studies. This is a combination of individual events, such as the Australian bushfires of 2019-20, and trends of how extremes are changing, such as a 2020 study into marine heatwaves over the past four decades.
+
+Australian bushfires, 2019-20
+Case 395
+Event type
+Wildfire
+
+Finding
+ More severe or more likely to occur
+
+"[W]e find that climate change has induced a higher weather-induced risk of such an extreme fire season. This trend is mainly driven by the increase of temperature extremes."
+
+
+Natural Hazards and Earth System Sciences (2021) van Oldenborgh, G. J. 2021: Attribution of the Australian bushfire risk to anthropogenic climate change, Nat. Hazards Earth Syst. Sci, DOI: 10.5194/nhess-21-941-2021
+Marine heatwaves, 1981-2017
+Case 339
+Event type
+Oceans
+
+Finding
+ More severe or more likely to occur
+
+"We show that the occurrence probabilities of the duration, intensity, and cumulative intensity of most documented, large, and impactful MHWs have increased more than 20-fold as a result of anthropogenic climate change."
+
+
+Science (2020) Laufkötter, C. et al. 2020: High-impact marine heatwaves attributable to human-induced global warming, Science, DOI:10.1126/science.aba0690
+Where a single study covers multiple events or locations, these have been separated out into individual entries on the map (where possible).
+
+Such is the sheer quantity of attribution studies, the new map displays them in regional summaries, rather than individual events or trends. (The regions follow those used by the UN, except the UN’s “Europe and Northern America” region has been divided into two.)
+
+By default, the map displays the data by attribution result.
+
+stampstamp
+The circles in each region indicate how many events and trends have been made more (red) or less (blue) severe or likely by climate change.
+
+Yellow indicates extremes where no human influence was found, while grey shows studies that were inconclusive.
+
+To explore the data for a specific region, click the relevant circles on the map. This reveals a summary page and a link to explore all the studies related to that part of the world.
+
+Across all cases, 74% were found to have been made more likely or severe because of climate change. More than a third of these are heat extremes, which are generally the most straightforward events to link to a warming world.
+
+High rainfall in Mozambique, Zimbabwe and Zambia, February 2018
+Case 297
+Event type
+Rain & flooding
+
+Finding
+ Decrease, less severe or less likely to occur
+
+"This multi-method study of high precipitation over parts of Mozambique, Zimbabwe and parts of Zambia in February 2018 indicates decreased likelihood of such events due to climate change, but with substantial uncertainty based on the used observations and models."
+
+
+Bulletin of the American Meteorological Society (2019) Fučkar, N. S. et al., 2019: On High Precipitation in Mozambique, Zimbabwe and Zambia in February 2018 [in “Explaining Extreme Events of 2018 from a Climate Perspective”]. Bull. Amer. Meteor. Soc., DOI:10.1175/BAMS-D-19-0162.1
+Around 9% of the events and trends in the map were made less likely or severe by climate change. Unsurprisingly, this category is dominated by blizzards and cold extremes, but there are also cases where climate change has lessened the chances of other extremes – such as the high rainfall event in February 2018 over south-east Africa.
+
+The remaining cases are extremes where scientists either identified no human influence (10%) or where the findings were inconclusive (7%).
+
+(It should be noted that these figures are not representative of all extreme weather events as only a small fraction have been subject to an attribution study. In addition, some of the events included in the map have been the subject of more than one study.)
+
+The map can also be viewed by event type, which groups the data into seven categories: heat (red), rain and flooding (navy blue), drought (yellow), storm (purple), cold, snow and ice (blue) and other (grey).
+
+To delve into the individual extremes, click “explore all cases” in the map legend or choose a specific country from the dropdown list. A searchable table is also included at the end of this article.
+
+stampstamp
+Profile 01
+The United States
+There are more than 103 attribution studies focusing on events in The United States. 72 studies found that climate change increased the severity or likelihood of the event. Explore the studies for The United States
+
+ 72 More severe or likely 13 Less severe or likely 11 Had no influence 7 Inconclusive
+Latest: Pacific north-west heatwave shows climate is heading into ‘uncharted territory’
+
+Evolving methods
+Following the first extreme event attribution study in 2004, the research field has rapidly gained momentum – with many more scientists and institutions carrying out studies and new methods being developed.
+
+And what started as a trickle of studies has turned into a flood. In the 10 years following that first scientific paper, around 50 more were published. In the 10 years after that, the number has risen tenfold by more than 500.
+
+There are various ways of carrying out an attribution study, but scientists commonly use climate models to simulate an extreme event in the current climate and compare them with idealised model runs of that event in a world without human-caused warming. The difference between the two sets of simulations indicates how the likelihood or severity of that extreme event has changed.
+
+stampstamp
+The evolution of attribution methods over the past two decades is explored in detail in an accompanying Carbon Brief article.
+
+The chart below reveals that the most-studied extremes are related to heat (28%) and rainfall and flooding (24%), which together account for more than half of the events and trends in the map. The next-largest group is for drought (14%), followed by storms and cold, snow and ice (both 8%).
+
+Event types
+ 547 More severe or likely 64 Less severe or likely 71 Had no influence 53 Inconclusive
+Heat (205)
+Rain & flooding (178)
+Drought (103)
+Storm (58)
+Cold, snow & ice (57)
+Compound (33)
+Impact (32)
+Wildfire (31)
+Oceans (24)
+Atmosphere (7)
+Sunshine (4)
+River flow (3)
+
+One of the most significant developments seen in attribution science is the advent of “rapid” studies.
+
+In 2015, the World Weather Attribution (WWA) initiative was founded, which streamlined the attribution process in order to produce results within days of an extreme event occurring.
+
+The team uses a standard, peer-reviewed methodology for their analysis, but does not routinely publish the results in formal journals – instead publishing them directly on the WWA website as soon as the analysis is complete.
+
+This has allowed scientists to answer the question of how climate change contributed to an extreme event in the immediate aftermath, rather than months later.
+
+For example, on 30 July, heavy rainfall in Kerala, India, triggered massive landslides that killed hundreds of people. Within two weeks, WWA was able to show that human-caused climate change had made the extreme rains 10% heavier.
+
+Heavy rainfall behind Kerala landslide, July 2024
+Rapid study. Case 582
+Event type
+Rain & flooding
+
+Finding
+ More severe or more likely to occur
+
+"The available climate models indicate a 10% increase in intensity."
+
+
+World Weather Attribution (rapid study) (2024) Zachariah, M. et al, 2024: Landslide-triggering rainfall made more intense by human-induced climate change, devastating highly vulnerable communities in northern Kerala, World Weather Attribution
+The Carbon Brief map includes WWA studies as well as those from selected other groups, including the Grantham Institute at Imperial College London and the UK Met Office. (See methodology at the end of this article for more details.)
+
+Another recent advance is “impact attribution”, which quantifies the social, economic and/or ecological impacts arising from the influence of climate change on extreme weather.
+
+In this latest iteration of the map, Carbon Brief has created a specific category for all of these studies. These include, for example, research showing how climate change increased the risk of people being displaced by Tropical Cyclone Idai when it hit Mozambique in 2019, and a study showing that 370 deaths during Switzerland summer of 2022 "could have been avoided in absence of human-induced climate change".
+
+Human displacements from Tropical Cyclone Idai, 2019
+Case 538
+Event type
+Impact
+
+Finding
+ More severe or more likely to occur
+
+"Our main estimates indicate that climate change has increased displacement risk from this event by approximately 12,600-14,900 additional displaced persons."
+
+
+Natural Hazards and Earth System Sciences (2023) Mester B. et al., 2023: Human displacements from Tropical Cyclone Idai attributable to climate change, Natural Hazards and Earth System Sciences, doi:10.5194/nhess-23-3467-2023
+Deaths during Switzerland summer heatwave, 2022
+Case 537
+Event type
+Impact
+
+Finding
+ More severe or more likely to occur
+
+"We estimate 623 deaths due to heat between June and August 2022…we find that 60% of this burden could have been avoided in absence of human-induced climate change"
+
+
+Environmental Research Letters (2023) Vicedo-Cabrera. A. et al., 2023: The footprint of human-induced climate change on heat-related deaths in the summer of 2022 in Switzerland, Environmental Research Letters, DOI: 10.1088/1748-9326/ace0d0
+Uneven spread
+Even a cursory look at the Carbon Brief map reveals the uneven spread of studied extremes across the world, with the vast majority in the global north.
+
+The cases included in the map are dominated by extremes in Europe (22%), eastern and south-east Asia (22%) and northern America (19%). In contrast, relatively few of the studied extremes are in central and southern Asia (5%), Oceania (1%) and northern Africa and western Asia (1%).
+
+Region breakdown
+ 205 Heat 178 Rain & flooding 103 Drought 58 Storm 57 Cold, snow & ice 32 Impact 32 Compound 31 Wildfire 24 Oceans 7 Atmosphere 4 Sunshine 3 River flow
+Europe (160)
+Eastern and south-eastern Asia (160)
+Northern America (137)
+Global (63)
+Sub-Saharan Africa (55)
+Australia and New Zealand (49)
+Central and southern Asia (36)
+Latin America and the Caribbean (32)
+Northern hemisphere (15)
+Arctic (11)
+Northern Africa and western Asia (8)
+Oceania (6)
+Antarctica (3)
+
+There are a number of reasons for this, including a lack of weather data and monitoring of extremes in many developing countries. Another factor is that scientists and their institutions that conduct attribution research are often themselves based in global-north countries.
+
+This imbalance is something that many attribution scientists are trying to address, putting a greater focus on extremes in countries that are often overlooked.
+
+stampstamp
+What is also noticeable in this latest iteration of the map is the large number of studies examining extremes in China, following record-breaking heatwaves, severe drought and deadly rainfall events in recent years.
+
+In total, 114 extremes and trends in China have been the subject of an attribution study – making up 16% of all the cases included in the map. More than 70% of them have been published in the past four years.
+
+Profile 02
+China
+There are more than 114 attribution studies focusing on events in China. 88 studies found that climate change increased the severity or likelihood of the event. Explore the studies for China
+
+ 88 More severe or likely 21 Less severe or likely 3 Had no influence 2 Inconclusive
+
+Use the searchable table below to see all extremes and trends for a specific country, and/or use the dropdown lists to select specific regions or types of extremes.
